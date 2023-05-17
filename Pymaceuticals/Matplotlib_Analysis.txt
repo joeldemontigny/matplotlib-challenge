@@ -1,0 +1,4 @@
+Final Analysis:
+1. Based on the data and results of mouse l509 and the use of Capomulin, one can deduce that after 20 days of usage, we begin to see a considerable drop in the size of the tumor.
+2. There is a strong postitive correlation between mouse weight and average tumor volume.
+3. Infubinol and Ceftamin do not appear to be as successful in tumor reduction as Capomulin and Ramicane treatments.
