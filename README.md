@@ -30,7 +30,7 @@ Create a line plot and a scatter plot.
 
 Calculate correlation and regression.
 
-Submit your final analysis (found at the end of the main.ipynb)
+Submit your final analysis (a "Matplotlib_Analysis.txt" file has been added to the "Pymaceuticals" folder for review)
 
 Prepare the Data
 Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
